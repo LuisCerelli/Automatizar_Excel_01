@@ -17,12 +17,13 @@ def leer_archivos():
     filename = input('Ingresar el nombre del archivo: ') + 'csv'
     fullpath = os.path.join(path, filename)
 
-    df = pd.read_csv('/Users/luisalbertocerelli/Desktop/00-Todo/00-Practicas_Data_Engineer/07_Automatizar_Excel_con_Python/Input/supermarket_sales - Sheet1.csv',
+    #Tambien puedes colocar un xlsx y cambiar por pd.read_excel
+    df = pd.read_csv('Aca_coloca_la_ruta_de_tu_data_frame.csv',
                  header=0,
                  usecols=input_cols)
     
     return df
-
+    
 def agregar_filtros(df):
     print("Agregando filtros")
 
@@ -41,7 +42,7 @@ def visualizar_datos(df):
 def exportar_datos(df):
     print("Exportando archivo procesado")
 
-    df.to_csv('/Users/luisalbertocerelli/Desktop/00-Todo/00-Practicas_Data_Engineer/07_Automatizar_Excel_con_Python/Output/ejemplo.csv',
+    df.to_csv('Coloca_la_ruta_donde_este_la_carpeta/Output/ejemplo.csv',
             sep=',',
             header=True,
             index=False)
