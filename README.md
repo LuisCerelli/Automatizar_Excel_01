@@ -37,3 +37,5 @@ Archivos .bat (Windows): Son específicos para la plataforma Windows y no funcio
 Archivos .sh (Mac/Linux): Están diseñados para sistemas basados en Unix y no son compatibles directamente con Windows, a menos que se use una herramienta como WSL (Windows Subsystem for Linux) o Git Bash.
 
 ### En resumen, los scripts .sh son la alternativa en Mac/Linux a los archivos .bat de Windows, permitiendo automatizar tareas similares de una manera compatible con el sistema operativo.
+
+## Si necesitas un archivo .bat para este codigo, no tienes mas que solicitármelo a mi correo
