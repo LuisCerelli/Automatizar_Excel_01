@@ -1,0 +1,345 @@
+Customer type,Gender,Product line,Unit price,Quantity,Payment
+Normal,Female,Electronic accessories,15.28,5,Cash
+Member,Male,Electronic accessories,25.51,4,Cash
+Normal,Female,Health and beauty,71.38,10,Cash
+Member,Female,Sports and travel,93.72,6,Cash
+Normal,Male,Fashion accessories,33.52,1,Cash
+Normal,Female,Food and beverages,88.36,5,Cash
+Normal,Male,Health and beauty,24.89,9,Cash
+Member,Male,Sports and travel,78.07,9,Cash
+Normal,Male,Sports and travel,83.78,8,Cash
+Member,Male,Home and lifestyle,30.12,8,Cash
+Member,Male,Home and lifestyle,56.11,2,Cash
+Member,Female,Sports and travel,69.12,6,Cash
+Member,Female,Food and beverages,98.7,8,Cash
+Member,Male,Health and beauty,15.37,2,Cash
+Member,Female,Electronic accessories,93.96,4,Cash
+Member,Male,Food and beverages,91.4,7,Cash
+Member,Female,Food and beverages,44.59,5,Cash
+Normal,Female,Electronic accessories,85.98,8,Cash
+Member,Male,Home and lifestyle,44.34,2,Cash
+Member,Female,Home and lifestyle,72.35,10,Cash
+Normal,Male,Electronic accessories,30.61,6,Cash
+Member,Male,Health and beauty,75.74,4,Cash
+Member,Male,Health and beauty,15.87,10,Cash
+Normal,Male,Sports and travel,78.77,10,Cash
+Member,Female,Health and beauty,18.33,1,Cash
+Normal,Male,Fashion accessories,62.12,10,Cash
+Normal,Female,Electronic accessories,75.91,6,Cash
+Normal,Female,Health and beauty,20.38,5,Cash
+Member,Male,Sports and travel,48.91,5,Cash
+Normal,Male,Fashion accessories,76.52,5,Cash
+Normal,Male,Sports and travel,42.47,1,Cash
+Normal,Female,Health and beauty,76.99,6,Cash
+Member,Female,Home and lifestyle,47.38,4,Cash
+Normal,Female,Electronic accessories,12.45,6,Cash
+Normal,Male,Home and lifestyle,82.7,6,Cash
+Member,Male,Fashion accessories,48.71,1,Cash
+Normal,Male,Fashion accessories,78.55,9,Cash
+Normal,Female,Electronic accessories,23.07,9,Cash
+Normal,Male,Food and beverages,58.26,6,Cash
+Normal,Male,Health and beauty,30.35,7,Cash
+Normal,Male,Sports and travel,62.13,6,Cash
+Normal,Female,Food and beverages,33.98,9,Cash
+Member,Male,Electronic accessories,81.97,10,Cash
+Normal,Female,Fashion accessories,72.84,7,Cash
+Normal,Female,Sports and travel,32.25,5,Cash
+Normal,Female,Fashion accessories,39.62,7,Cash
+Member,Female,Sports and travel,92.13,6,Cash
+Normal,Female,Sports and travel,34.84,4,Cash
+Normal,Male,Fashion accessories,90.22,3,Cash
+Member,Female,Home and lifestyle,34.42,6,Cash
+Normal,Male,Sports and travel,51.91,10,Cash
+Member,Male,Health and beauty,90.5,10,Cash
+Member,Female,Health and beauty,68.6,10,Cash
+Normal,Female,Sports and travel,80.97,8,Cash
+Member,Male,Electronic accessories,72.17,1,Cash
+Normal,Male,Sports and travel,63.69,1,Cash
+Normal,Male,Home and lifestyle,95.58,10,Cash
+Normal,Male,Food and beverages,51.28,6,Cash
+Normal,Male,Electronic accessories,20.85,8,Cash
+Normal,Male,Fashion accessories,64.26,7,Cash
+Member,Male,Food and beverages,38.47,8,Cash
+Member,Male,Home and lifestyle,46.47,4,Cash
+Normal,Female,Food and beverages,87.8,9,Cash
+Member,Female,Fashion accessories,74.29,1,Cash
+Member,Male,Health and beauty,43.7,2,Cash
+Member,Female,Electronic accessories,57.49,4,Cash
+Normal,Male,Electronic accessories,61.41,7,Cash
+Normal,Female,Food and beverages,93.26,9,Cash
+Member,Female,Sports and travel,29.61,7,Cash
+Normal,Female,Sports and travel,24.77,5,Cash
+Member,Female,Electronic accessories,94.64,3,Cash
+Normal,Male,Electronic accessories,11.81,5,Cash
+Member,Female,Fashion accessories,12.54,1,Cash
+Normal,Male,Food and beverages,43.25,2,Cash
+Member,Female,Electronic accessories,90.7,6,Cash
+Normal,Female,Fashion accessories,81.37,2,Cash
+Normal,Female,Health and beauty,84.09,9,Cash
+Member,Male,Fashion accessories,73.82,4,Cash
+Member,Female,Electronic accessories,13.22,5,Cash
+Member,Male,Home and lifestyle,62.65,4,Cash
+Member,Male,Home and lifestyle,47.59,8,Cash
+Member,Female,Electronic accessories,81.4,3,Cash
+Normal,Male,Home and lifestyle,23.75,4,Cash
+Member,Male,Home and lifestyle,58.9,8,Cash
+Member,Male,Fashion accessories,32.62,4,Cash
+Member,Female,Fashion accessories,38.3,4,Cash
+Member,Female,Sports and travel,22.24,10,Cash
+Member,Female,Food and beverages,74.6,10,Cash
+Member,Female,Health and beauty,21.12,2,Cash
+Normal,Female,Home and lifestyle,12.03,2,Cash
+Normal,Male,Fashion accessories,47.97,7,Cash
+Member,Female,Home and lifestyle,21.82,10,Cash
+Member,Male,Fashion accessories,70.99,10,Cash
+Normal,Female,Sports and travel,15.34,1,Cash
+Member,Female,Health and beauty,47.67,4,Cash
+Normal,Male,Health and beauty,66.68,5,Cash
+Member,Male,Home and lifestyle,74.86,1,Cash
+Normal,Female,Sports and travel,23.75,9,Cash
+Member,Female,Home and lifestyle,94.88,7,Cash
+Member,Female,Electronic accessories,62.48,1,Cash
+Member,Female,Food and beverages,36.36,2,Cash
+Member,Female,Electronic accessories,51.92,5,Cash
+Normal,Male,Electronic accessories,28.84,4,Cash
+Member,Male,Home and lifestyle,60.01,4,Cash
+Member,Female,Home and lifestyle,88.61,1,Cash
+Normal,Male,Food and beverages,48.61,1,Cash
+Normal,Female,Electronic accessories,14.96,8,Cash
+Normal,Female,Sports and travel,40.23,7,Cash
+Member,Female,Home and lifestyle,88.79,8,Cash
+Normal,Female,Fashion accessories,81.91,2,Cash
+Member,Male,Sports and travel,79.93,6,Cash
+Member,Female,Health and beauty,15.55,9,Cash
+Member,Female,Electronic accessories,78.13,10,Cash
+Member,Male,Food and beverages,99.37,2,Cash
+Member,Female,Food and beverages,21.08,3,Cash
+Member,Male,Electronic accessories,74.79,5,Cash
+Normal,Female,Food and beverages,22.93,9,Cash
+Normal,Female,Health and beauty,39.42,1,Cash
+Normal,Female,Fashion accessories,61.77,5,Cash
+Member,Male,Food and beverages,99.78,5,Cash
+Member,Male,Food and beverages,94.26,4,Cash
+Member,Male,Electronic accessories,36.36,4,Cash
+Normal,Male,Home and lifestyle,22.02,9,Cash
+Normal,Male,Fashion accessories,77.02,5,Cash
+Normal,Female,Sports and travel,57.95,6,Cash
+Member,Female,Health and beauty,76.9,7,Cash
+Normal,Male,Sports and travel,44.65,3,Cash
+Member,Male,Electronic accessories,71.95,1,Cash
+Member,Female,Home and lifestyle,89.25,8,Cash
+Normal,Male,Electronic accessories,26.02,7,Cash
+Normal,Male,Electronic accessories,51.69,7,Cash
+Member,Male,Home and lifestyle,27.0,9,Cash
+Normal,Female,Electronic accessories,30.24,1,Cash
+Normal,Female,Sports and travel,95.44,10,Cash
+Normal,Male,Sports and travel,74.97,1,Cash
+Normal,Female,Food and beverages,94.47,8,Cash
+Normal,Male,Home and lifestyle,73.22,6,Cash
+Normal,Female,Food and beverages,41.24,4,Cash
+Normal,Female,Fashion accessories,81.68,4,Cash
+Normal,Female,Electronic accessories,51.32,9,Cash
+Member,Male,Home and lifestyle,65.94,4,Cash
+Normal,Female,Sports and travel,14.36,10,Cash
+Member,Female,Electronic accessories,26.26,7,Cash
+Normal,Male,Fashion accessories,42.08,6,Cash
+Normal,Female,Electronic accessories,26.61,2,Cash
+Normal,Female,Food and beverages,99.69,5,Cash
+Member,Male,Sports and travel,75.82,1,Cash
+Normal,Male,Food and beverages,46.77,6,Cash
+Member,Female,Fashion accessories,80.48,3,Cash
+Normal,Female,Fashion accessories,37.95,10,Cash
+Normal,Male,Home and lifestyle,13.59,9,Cash
+Member,Male,Electronic accessories,19.24,9,Cash
+Member,Female,Fashion accessories,68.71,4,Cash
+Normal,Female,Health and beauty,34.21,10,Cash
+Member,Male,Health and beauty,20.97,5,Cash
+Member,Female,Electronic accessories,25.22,7,Cash
+Normal,Female,Electronic accessories,84.05,3,Cash
+Normal,Male,Fashion accessories,16.28,1,Cash
+Member,Male,Fashion accessories,40.61,9,Cash
+Member,Male,Health and beauty,53.17,7,Cash
+Normal,Male,Sports and travel,67.27,5,Cash
+Member,Male,Food and beverages,17.44,5,Cash
+Normal,Female,Sports and travel,19.1,7,Cash
+Normal,Female,Electronic accessories,74.71,6,Cash
+Normal,Male,Electronic accessories,22.01,6,Cash
+Member,Male,Electronic accessories,20.77,4,Cash
+Member,Female,Fashion accessories,29.56,5,Cash
+Normal,Male,Electronic accessories,79.39,10,Cash
+Member,Female,Electronic accessories,46.57,10,Cash
+Normal,Male,Food and beverages,40.52,5,Cash
+Normal,Female,Sports and travel,73.95,4,Cash
+Member,Female,Food and beverages,22.62,1,Cash
+Normal,Male,Sports and travel,37.02,6,Cash
+Member,Female,Electronic accessories,98.84,1,Cash
+Member,Female,Sports and travel,40.05,4,Cash
+Member,Male,Health and beauty,72.57,8,Cash
+Member,Female,Electronic accessories,64.44,5,Cash
+Normal,Male,Food and beverages,65.97,8,Cash
+Normal,Female,Electronic accessories,32.8,10,Cash
+Member,Male,Home and lifestyle,60.38,10,Cash
+Normal,Female,Fashion accessories,41.09,10,Cash
+Normal,Male,Home and lifestyle,22.96,1,Cash
+Normal,Male,Sports and travel,75.92,8,Cash
+Normal,Female,Electronic accessories,63.22,2,Cash
+Normal,Female,Food and beverages,90.24,6,Cash
+Member,Female,Sports and travel,98.13,1,Cash
+Member,Female,Sports and travel,51.52,8,Cash
+Normal,Female,Sports and travel,93.31,2,Cash
+Member,Female,Sports and travel,48.5,3,Cash
+Member,Male,Health and beauty,61.29,5,Cash
+Normal,Male,Electronic accessories,99.55,7,Cash
+Member,Female,Home and lifestyle,83.17,6,Cash
+Normal,Male,Health and beauty,62.87,2,Cash
+Normal,Male,Sports and travel,98.09,9,Cash
+Normal,Female,Sports and travel,51.54,5,Cash
+Normal,Female,Electronic accessories,66.06,6,Cash
+Normal,Female,Fashion accessories,54.31,9,Cash
+Normal,Female,Health and beauty,58.24,9,Cash
+Member,Male,Electronic accessories,19.32,7,Cash
+Member,Female,Fashion accessories,72.04,2,Cash
+Normal,Male,Electronic accessories,21.58,9,Cash
+Normal,Male,Fashion accessories,99.25,2,Cash
+Normal,Female,Fashion accessories,65.74,9,Cash
+Member,Male,Sports and travel,26.67,10,Cash
+Normal,Male,Food and beverages,60.3,4,Cash
+Normal,Female,Health and beauty,64.27,4,Cash
+Normal,Male,Food and beverages,27.22,3,Cash
+Member,Female,Health and beauty,77.68,4,Cash
+Normal,Female,Food and beverages,52.34,3,Cash
+Normal,Male,Fashion accessories,59.61,10,Cash
+Normal,Male,Health and beauty,14.62,5,Cash
+Member,Female,Sports and travel,45.58,1,Cash
+Member,Male,Sports and travel,96.8,3,Cash
+Normal,Female,Fashion accessories,36.85,5,Cash
+Member,Female,Fashion accessories,51.89,7,Cash
+Normal,Male,Home and lifestyle,31.75,4,Cash
+Member,Female,Food and beverages,98.97,9,Cash
+Member,Male,Fashion accessories,93.22,3,Cash
+Member,Male,Sports and travel,72.6,6,Cash
+Member,Female,Food and beverages,91.61,1,Cash
+Member,Male,Fashion accessories,91.35,1,Cash
+Member,Female,Food and beverages,78.88,2,Cash
+Member,Male,Health and beauty,82.58,10,Cash
+Normal,Female,Electronic accessories,46.2,1,Cash
+Member,Female,Food and beverages,17.63,5,Cash
+Normal,Male,Health and beauty,70.21,6,Cash
+Member,Male,Fashion accessories,33.63,1,Cash
+Member,Female,Sports and travel,15.49,2,Cash
+Normal,Male,Electronic accessories,24.74,10,Cash
+Normal,Female,Health and beauty,55.81,6,Cash
+Member,Male,Home and lifestyle,72.78,10,Cash
+Member,Female,Sports and travel,27.93,5,Cash
+Normal,Female,Sports and travel,42.97,3,Cash
+Normal,Female,Sports and travel,98.8,2,Cash
+Member,Male,Food and beverages,93.4,2,Cash
+Member,Male,Fashion accessories,83.77,2,Cash
+Member,Female,Food and beverages,73.47,4,Cash
+Member,Female,Electronic accessories,39.48,1,Cash
+Member,Male,Home and lifestyle,63.56,10,Cash
+Member,Male,Sports and travel,72.88,2,Cash
+Normal,Female,Food and beverages,67.1,3,Cash
+Member,Female,Sports and travel,70.19,9,Cash
+Member,Male,Health and beauty,48.63,10,Cash
+Member,Female,Fashion accessories,73.38,7,Cash
+Normal,Female,Food and beverages,52.6,9,Cash
+Member,Female,Home and lifestyle,87.37,5,Cash
+Member,Male,Health and beauty,80.47,9,Cash
+Member,Female,Home and lifestyle,88.39,9,Cash
+Normal,Male,Health and beauty,71.77,7,Cash
+Member,Male,Food and beverages,68.98,1,Cash
+Member,Male,Food and beverages,80.62,6,Cash
+Normal,Female,Fashion accessories,25.56,7,Cash
+Member,Female,Sports and travel,90.63,9,Cash
+Member,Female,Food and beverages,36.77,7,Cash
+Member,Female,Health and beauty,28.5,8,Cash
+Member,Female,Home and lifestyle,52.18,7,Cash
+Normal,Male,Home and lifestyle,93.96,9,Cash
+Normal,Male,Home and lifestyle,55.61,7,Cash
+Member,Female,Food and beverages,38.42,1,Cash
+Member,Male,Health and beauty,81.23,7,Cash
+Normal,Female,Home and lifestyle,96.52,6,Cash
+Normal,Male,Sports and travel,13.69,6,Cash
+Normal,Female,Electronic accessories,95.64,4,Cash
+Normal,Female,Home and lifestyle,11.43,6,Cash
+Member,Male,Food and beverages,65.65,2,Cash
+Normal,Male,Sports and travel,93.38,1,Cash
+Member,Male,Sports and travel,25.25,5,Cash
+Normal,Male,Health and beauty,21.8,8,Cash
+Normal,Female,Home and lifestyle,44.01,8,Cash
+Member,Female,Home and lifestyle,60.87,1,Cash
+Member,Female,Sports and travel,24.49,10,Cash
+Member,Female,Fashion accessories,48.96,9,Cash
+Member,Female,Electronic accessories,75.59,9,Cash
+Normal,Female,Home and lifestyle,77.47,4,Cash
+Normal,Female,Electronic accessories,50.23,4,Cash
+Normal,Female,Health and beauty,17.75,1,Cash
+Normal,Male,Electronic accessories,95.15,1,Cash
+Member,Female,Electronic accessories,48.62,8,Cash
+Normal,Female,Fashion accessories,45.44,7,Cash
+Member,Male,Sports and travel,10.17,1,Cash
+Normal,Female,Health and beauty,68.71,3,Cash
+Normal,Male,Electronic accessories,64.95,10,Cash
+Normal,Male,Electronic accessories,10.56,8,Cash
+Normal,Male,Health and beauty,62.57,4,Cash
+Member,Female,Sports and travel,11.85,8,Cash
+Normal,Male,Fashion accessories,52.38,1,Cash
+Normal,Male,Electronic accessories,55.87,10,Cash
+Normal,Male,Fashion accessories,51.94,3,Cash
+Normal,Male,Electronic accessories,60.3,1,Cash
+Normal,Male,Fashion accessories,21.32,1,Cash
+Member,Female,Food and beverages,72.88,9,Cash
+Normal,Female,Fashion accessories,99.1,6,Cash
+Normal,Male,Fashion accessories,74.1,1,Cash
+Normal,Female,Fashion accessories,36.51,9,Cash
+Normal,Male,Food and beverages,21.12,8,Cash
+Member,Female,Home and lifestyle,28.31,4,Cash
+Normal,Male,Health and beauty,57.59,6,Cash
+Member,Female,Food and beverages,47.63,9,Cash
+Normal,Female,Home and lifestyle,51.07,7,Cash
+Member,Female,Electronic accessories,79.59,3,Cash
+Member,Female,Electronic accessories,21.43,10,Cash
+Member,Male,Sports and travel,89.06,6,Cash
+Member,Male,Fashion accessories,52.35,1,Cash
+Member,Male,Electronic accessories,39.75,1,Cash
+Member,Female,Food and beverages,83.34,2,Cash
+Normal,Male,Sports and travel,45.58,7,Cash
+Normal,Female,Health and beauty,83.66,5,Cash
+Normal,Female,Electronic accessories,57.91,8,Cash
+Normal,Male,Electronic accessories,28.38,5,Cash
+Member,Female,Food and beverages,47.27,6,Cash
+Member,Male,Health and beauty,85.6,7,Cash
+Normal,Male,Food and beverages,11.53,7,Cash
+Member,Female,Home and lifestyle,78.38,4,Cash
+Normal,Female,Home and lifestyle,93.12,8,Cash
+Member,Female,Food and beverages,99.6,3,Cash
+Normal,Female,Electronic accessories,35.49,6,Cash
+Normal,Female,Fashion accessories,94.67,4,Cash
+Normal,Female,Home and lifestyle,16.37,6,Cash
+Normal,Female,Sports and travel,89.48,5,Cash
+Member,Female,Health and beauty,92.09,3,Cash
+Member,Male,Fashion accessories,99.82,9,Cash
+Member,Male,Health and beauty,10.08,7,Cash
+Member,Female,Food and beverages,21.04,4,Cash
+Member,Male,Home and lifestyle,65.91,6,Cash
+Normal,Female,Fashion accessories,42.57,7,Cash
+Member,Male,Food and beverages,50.49,9,Cash
+Normal,Male,Electronic accessories,46.02,6,Cash
+Normal,Female,Home and lifestyle,15.8,10,Cash
+Member,Female,Food and beverages,98.66,9,Cash
+Member,Male,Fashion accessories,91.98,1,Cash
+Member,Male,Electronic accessories,20.89,2,Cash
+Member,Male,Electronic accessories,96.82,3,Cash
+Normal,Female,Health and beauty,15.8,3,Cash
+Normal,Male,Electronic accessories,87.08,7,Cash
+Normal,Male,Home and lifestyle,80.08,3,Cash
+Normal,Male,Fashion accessories,86.13,2,Cash
+Normal,Female,Food and beverages,74.66,4,Cash
+Member,Male,Food and beverages,59.59,4,Cash
+Normal,Male,Health and beauty,58.15,4,Cash
+Normal,Male,Health and beauty,99.96,7,Cash
+Normal,Male,Electronic accessories,96.37,7,Cash
+Member,Male,Food and beverages,31.84,1,Cash
+Normal,Male,Home and lifestyle,65.82,1,Cash
+Member,Female,Fashion accessories,88.34,7,Cash
