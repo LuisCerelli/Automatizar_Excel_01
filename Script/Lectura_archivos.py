@@ -4,6 +4,7 @@ def main():
     df = leer_archivos()
     df = agregar_filtros(df)
 
+    #la funcion que sigue está comentada porque puede resultar molesto ver tanta información en la Terminal...
     #visualizar_datos(df) 
     exportar_datos(df)
 
@@ -11,13 +12,16 @@ def leer_archivos():
     print('Leyendo archivo')
     import os
 
+    #con esta variable eliges las columnas que quieres filtrar
     input_cols = [3,4,5,6,7,12]
 
     path = '../Input'
+    
     filename = input('Ingresar el nombre del archivo: ') + 'csv'
     fullpath = os.path.join(path, filename)
 
-    #Tambien puedes colocar un xlsx y cambiar por pd.read_excel
+    #Tambien puedes colocar un xlsx y cambiar por pd.read_excel ademas
+    #he dejado un csv en la carpeta Input para que puedas hacerlo igual
     df = pd.read_csv('Aca_coloca_la_ruta_de_tu_data_frame.csv',
                  header=0,
                  usecols=input_cols)
@@ -27,6 +31,7 @@ def leer_archivos():
 def agregar_filtros(df):
     print("Agregando filtros")
 
+    #En este caso agregamos el filtro mediante el cual solo veremos las filas que dicen 'Cash' en la columna 'Payment'
     df = df[df['Payment'] == 'Cash'] 
 
     return df
